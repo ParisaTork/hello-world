@@ -7,4 +7,4 @@ Recommendations for more fun activities:
 - Water skiing
 - Create your own puppet theatre
 - Build an automatic bartending robot
-- Create your own time capsule
+- Make a time capsule
