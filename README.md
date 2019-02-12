@@ -8,5 +8,6 @@ Recommendations for more fun activities:
 - Create your own puppet theatre
 - Build an automatic bartending robot
 - Make a time capsule
-- Learn to make sushi
+- Learn to make floral sushi
 - Try laser-cutting, 3D printing or mess around with Arduino
+- Paint your own portrait
