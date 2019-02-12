@@ -9,4 +9,4 @@ Recommendations for more fun activities:
 - Build an automatic bartending robot
 - Make a time capsule
 - Learn to make sushi
-- Try laser-cutting, 3D Printing or mess around with Arduino
+- Try laser-cutting, 3D printing or mess around with Arduino
