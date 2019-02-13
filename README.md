@@ -11,3 +11,5 @@ Recommendations for more fun activities:
 - Learn to make floral sushi
 - Try laser-cutting, 3D printing or mess around with Arduino
 - Paint your own portrait
+- Dress up and go to an opera
+- Learn an eclectic instrument e.g. a hurdy-gurdy, a glass harmonica, or better yet, a sea-organ
