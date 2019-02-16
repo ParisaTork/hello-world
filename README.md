@@ -1,7 +1,7 @@
 # hello-world
 Introductory repository. 
 
-Really? You're reading this?! The 'hello-world' repo?!
+Welcome to the 'hello-world' repo! Thank you for reading this! :)
 
 Recommendations for more fun activities:
 - Water skiing
