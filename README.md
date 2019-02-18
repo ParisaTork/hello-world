@@ -12,4 +12,4 @@ Recommendations for more fun activities:
 - Try laser-cutting, 3D printing or mess around with Arduino
 - Paint your own portrait
 - Dress up and go to an opera
-- Learn an eclectic instrument e.g. hurdy-gurdy, glass harmonica, singing Tesla coil, sea-organ
+- Learn an eclectic instrument e.g. hurdy-gurdy, glass harmonica, [singing Tesla coil](https://www.youtube.com/watch?v=8LAhKkPUo_A), sea-organ
