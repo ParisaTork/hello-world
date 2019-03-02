@@ -10,6 +10,6 @@ Recommendations for more fun activities:
 - Make a [time capsule](http://www.naa.gov.au/information-management/managing-information-and-records/preserving/time-capsules.aspx)
 - Learn to make [floral sushi](http://sushi-world.net/wp/sushi-2/flower-sushi-roll.html)
 - Try laser-cutting, [3D printing](https://www.youtube.com/watch?v=w1Z00Z1ujx8) or mess around with [Arduino](https://youtu.be/ZDTKVbnQUo8?t=366)
-- Paint your own portrait
+- [Paint your own portrait](https://www.youtube.com/watch?v=hmenyDcoXfg)
 - Dress up and go to an opera
 - Learn an eclectic instrument e.g. hurdy-gurdy, glass harmonica, [singing Tesla coil](https://www.youtube.com/watch?v=8LAhKkPUo_A), sea-organ
